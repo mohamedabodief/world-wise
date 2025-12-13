@@ -8,10 +8,10 @@ const formatDate = (date) =>
     year: 'numeric',
   }).format(new Date(date));
 function CityItem({ city }) {
-  const { cityName, emoji, date, id } = city;
+  const { cityName, emoji, date, id, position } = city;
   return (
     <li>
-      <Link className={styles.cityItem} to={`${id}`}>
+      <Link className={styles.cityItem} to={`${id}?lat=${position.lat}&lng=${position.lng}`}>
         <span className={styles.emoji} role="img" aria-label={cityName}>
           {emoji}
         </span>
