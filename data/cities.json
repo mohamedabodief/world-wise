@@ -1,40 +1,52 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "cityName": "Damanhur",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-12-26T00:08:38.894Z",
+      "notes": "hey",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": 31.019986671412497,
+        "lng": 30.558471679687504
       },
-      "id": 73930385
+      "id": 98443198
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Tanta",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-12-26T00:12:30.468Z",
+      "notes": "why",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": 30.784317689718897,
+        "lng": 31.020392803632127
       },
-      "id": 17806751
+      "id": 98443199
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Alexandria",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-12-27T01:27:23.066Z",
+      "notes": "alx",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": 31.18930843952816,
+        "lng": 29.938020027695433
       },
-      "id": 98443197
+      "id": 98443200
+    },
+    {
+      "cityName": "Banha",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-12-27T01:36:34.087Z",
+      "notes": "ban",
+      "position": {
+        "lat": 30.44393799829119,
+        "lng": 31.191840869297497
+      },
+      "id": 98443201
     }
   ]
 }
