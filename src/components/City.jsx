@@ -20,7 +20,7 @@ function City() {
   // Fetch city data when component mounts or id changes
   useEffect(() => {
     getCity(id);
-  }, [id]);
+  }, [id , getCity]);
 
   // const [searchParams , setSearchParams] = useSearchParams();
   //     const lat = searchParams.get('lat');
